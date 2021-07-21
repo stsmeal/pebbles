@@ -1,3 +1,4 @@
 # pebbles
-Pebbles made in Unity
-This is game I made and had published for a short time to both the Apple Store and Google Play back in 2017
+_Pebbles made in Unity_
+
+This is a game I made and had published for a short time to both the Apple Store and Google Play back in 2017
